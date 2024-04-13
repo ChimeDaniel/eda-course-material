@@ -1,15 +1,16 @@
-# Marketing Analysis EDA
+# EDA Analysis
 
-This project contains an Exploratory Data Analysis (EDA) of the Marketing Analysis dataset (`Marketing_Analysis.csv`). The analysis is performed in a Jupyter Notebook named `ada.ipynb`.
+This project contains an Exploratory Data Analysis (EDA) of a Marketing Analysis dataset (`Marketing_Analysis.csv`) and a Netflix Dataset (`netflix_titles.csv`). The analysis is performed in a Jupyter Notebook named `ada.ipynb`.
 
 ## Dataset
-The dataset used in this analysis is `Marketing_Analysis.csv`. It contains marketing data that was used for the analysis.
+The datasets used in this analysis are `Marketing_Analysis.csv` and `netflix_titles.csv`. They contain data that was used for the analyses.
 
 ## Analysis
-The analysis is performed in the Jupyter Notebook file called `ada.ipynb`. It includes various data exploration techniques and visualizations to gain insights into the dataset.
+The analysis is performed in the Jupyter Notebook file called `ada.ipynb`. It includes various data exploration techniques and visualizations to gain insights into the datasets.
 
 ## Files
 - `Marketing_Analysis.csv`: The dataset used for analysis.
+- `netflix_titles.csv`: The dataset used for analysis.
 - `eda.ipynb`: Jupyter Notebook file containing the EDA code.
 
 ## Usage
